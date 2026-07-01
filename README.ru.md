@@ -1,7 +1,7 @@
 <div align="center">
 Выберите язык / Choose prefered language 
   
-[Русский](README.ru.md) | <b>English</b>
+<b>Русский</b> | [English](README.md)
 
 </div>
 <hr>
